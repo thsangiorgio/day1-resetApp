@@ -1,7 +1,4 @@
-// console.log('App.js is running!');
-// var template = <p>This is JSX from app.js!</p>;
-// var appRoot = document.getElementById('app');
-// ReactDOM.render(template, appRoot);
+
 let count = 0;
 const addOne = () => {
   count++;
