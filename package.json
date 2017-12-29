@@ -1,0 +1,12 @@
+{
+  "name": "day1-resetApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thsangiorgio/day1-resetApp.git",
+  "author": "thsangiorgio <th.sangiorgio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
